@@ -16,6 +16,7 @@ const App=()=>{
  return( <>
 <div>
   <h1>Hello {fullName}</h1>  
+  <h1>hjio</h1>
   <input type="text" placeholder='Enter your name' 
   onChange={input}
   />
